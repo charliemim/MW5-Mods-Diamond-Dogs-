@@ -1,6 +1,8 @@
-Ctrl+click the mod titles or copy and paste the mod links.
+Follow the links below to the mod pages.
+
 Download the mod files manually.
-Extract them into the "\\steamapps\\common\\MechWarrior 5 Mercenaries\\MW5Mercs\\Mods" folder.
+
+Extract them into the "\steamapps\common\MechWarrior 5 Mercenaries\MW5Mercs\Mods" folder.
 
 [Armor Green](https://www.nexusmods.com/mechwarrior5mercenaries/mods/462?tab=files)
 
