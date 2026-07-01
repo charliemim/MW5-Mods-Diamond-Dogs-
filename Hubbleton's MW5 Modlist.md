@@ -4,6 +4,12 @@ Download the mod files manually.
 
 Extract them into the "\steamapps\common\MechWarrior 5 Mercenaries\MW5Mercs\Mods" folder.
 
+Launch the game, go to the Mods menu, and activate all of the mods.
+
+Close and relaunch the game.
+
+Start a new Career mode game. You don't need to play it. You only need to start it to make sure all mods are initialized.
+
 [Armor Green](https://www.nexusmods.com/mechwarrior5mercenaries/mods/462?tab=files)
 
 [Better Cantina 2](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1482?tab=files)
