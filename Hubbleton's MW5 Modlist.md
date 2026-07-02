@@ -30,8 +30,6 @@ Start a new Career mode game. You don't need to play it. You only need to start 
 
 [Restore Traits](https://www.nexusmods.com/mechwarrior5mercenaries/mods/514?tab=files)
 
-[Star Map Tips Enhanced](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1150?tab=files)
-
 [Tex's Cantina of Scum and Villainy](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1059?tab=files)
 
 [Ultra Visual and Weather](https://www.nexusmods.com/mechwarrior5mercenaries/mods/178?tab=files)
