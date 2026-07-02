@@ -36,6 +36,6 @@ Start a new Career mode game. You don't need to play it. You only need to start 
 
 [Ultra Visual and Weather](https://www.nexusmods.com/mechwarrior5mercenaries/mods/178?tab=files)
 
-[Unofficial MW5 Patch](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1089?tab=files)
-
 [vonHUD v14](https://www.nexusmods.com/mechwarrior5mercenaries/mods/585?tab=files)
+
+[YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459?tab=files)
