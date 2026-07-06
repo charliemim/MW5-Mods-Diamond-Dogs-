@@ -10,6 +10,8 @@ Close and relaunch the game.
 
 Start a new Career mode game. You don't need to play it. You only need to start it to make sure all mods are initialized.
 
+[Advanced Zoom](https://www.nexusmods.com/mechwarrior5mercenaries/mods/412?tab=files)
+
 [Armor Green](https://www.nexusmods.com/mechwarrior5mercenaries/mods/462?tab=files)
 
 [Better Cantina 2](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1482?tab=files)
