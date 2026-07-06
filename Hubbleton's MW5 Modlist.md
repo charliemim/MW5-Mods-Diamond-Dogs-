@@ -14,8 +14,6 @@ Start a new Career mode game. You don't need to play it. You only need to start 
 
 [Armor Green](https://www.nexusmods.com/mechwarrior5mercenaries/mods/462?tab=files)
 
-[Better Cantina 2](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1482?tab=files)
-
 [Cantina Rewards No Rep](https://www.nexusmods.com/mechwarrior5mercenaries/mods/1170?tab=files)
 
 [Faction Standing Tweaks](https://www.nexusmods.com/mechwarrior5mercenaries/mods/934?tab=files)
